@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohdAkramAnsari
 - 👀 I’m interested in Front-end.
-- 🌱 I’m currently learning ReactNative
+- 🌱 Good knowledge of ReactJS, HTML, CSS, Bootstrap, JS.
 
 <!---
 MohdAkramAnsari/MohdAkramAnsari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
